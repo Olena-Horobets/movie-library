@@ -1,23 +1,23 @@
 {
-  "name": "movies-library",
+  "name": "movie-library",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /movies-library/"
+    "build": "parcel build src/*.html --public-url /movie-library/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladibon/movies-library.git"
+    "url": "git+https://github.com/Olena-Horobets/movie-library.git"
   },
   "keywords": [],
   "author": "Vladimir Bondar <vladi.bondar@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vladibon/movies-library/issues"
+    "url": "https://github.com/Olena-Horobets/movie-library/issues"
   },
-  "homepage": "https://vladibon.github.io/movies-library/",
+  "homepage": "https://Olena-Horobets.github.io/movie-library/",
   "staticFiles": {
     "staticPath": [
       "src/images/team",
